@@ -1,0 +1,101 @@
+{
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 4,
+  "pageOrder": [
+    "Public.users",
+    "Movies",
+    "Detailes",
+    "Appsmith-mock",
+    "Page1"
+  ],
+  "publishedPageOrder": [
+    "Public.users",
+    "Movies",
+    "Detailes",
+    "Appsmith-mock",
+    "Page1"
+  ],
+  "publishedDefaultPageName": "Public.users",
+  "unpublishedDefaultPageName": "Public.users",
+  "invisibleActionFields": {
+    "Appsmith-mock_CreateFile": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Appsmith-mock_DeleteFile": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Appsmith-mock_ListFiles": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Appsmith-mock_ReadFile": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Appsmith-mock_UpdateFile": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Detailes_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Detailes_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Detailes_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Detailes_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Movies_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Movies_FindQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Movies_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Movies_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Public.users_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    }
+  },
+  "publishedLayoutmongoEscapedWidgets": {
+    "Movies": [
+      "data_table"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Movies": [
+      "data_table"
+    ]
+  },
+  "fileFormatVersion": 2
+}
